@@ -1,0 +1,1 @@
+This is the Drugs@FDA example database dump. We will use this to load our database will Drug information directly from the FDA.
