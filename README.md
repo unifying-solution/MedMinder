@@ -1,7 +1,7 @@
 MedMinder
 =========
 
-MedMinder is a web applicaton that allows patients taking medications to easily manage their perscriptions and their medicine schedule.
+MedMinder is a web applicaton that allows patients taking medications to easily manage their prescriptions and their medicine schedule.
 
 Requirements
 ------------
